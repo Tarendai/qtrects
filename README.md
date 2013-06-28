@@ -3,9 +3,11 @@ qtrects
 
 A demo program involving QT windows, OpenGL, shaders, and rectangles
 
+![rectangles](https://raw.github.com/Tarendai/qtrects/master/screenshot.jpg)
 
 Instructions
 =======
+
 Keys:
 L - spawns 4 yellow squares that eat other square
 K - spawns 4 white squares that spin and grow slowly, but shrink when they hti other squares
